@@ -1,0 +1,26 @@
+.sidebar{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+}
+.nav{
+	padding: 0;
+	margin: 0;
+}
+
+.footer{
+	height: 260px;
+	background-color: black;
+	color: white;
+
+}
+.footer h3{
+	padding-top: 100px;
+}
+
+.content{
+	height: auto;
+	padding-left: 0;
+	/*padding-bottom: 80px;*/
+	float: left;
+}
